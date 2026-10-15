@@ -1,0 +1,4 @@
+Kernel,Best Parameters
+linear,{'model__C': 1}
+poly,"{'model__C': 1, 'model__degree': 3, 'model__gamma': 'scale'}"
+rbf,"{'model__C': 0.1, 'model__gamma': 'scale'}"
